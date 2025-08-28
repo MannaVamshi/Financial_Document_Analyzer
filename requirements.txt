@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+PyPDF2
+python-multipart
+pydantic
+celery[redis]==5.3.0
+redis==4.6.0
+SQLAlchemy==2.0.22
+alembic==1.11.1   # optional for migrations
